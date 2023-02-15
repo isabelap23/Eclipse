@@ -14,7 +14,7 @@ class SomarDoisNumeros {
 		soma = num1 + num2;
 		
 		//mostrar
-		System.out.println("Soma: " + soma);
+		System.out.println("A soma é: " + soma);
 		
 	}
 
